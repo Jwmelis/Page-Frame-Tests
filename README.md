@@ -2,7 +2,7 @@
 Compares number of Page Faults for FIFO and LRU with varying frame amounts
 
 Code by Jonathan Melis
-LRUPageFrameTest.java and FIFOPageFrameTest.java
+LRUPageFrameTest.java and FIFOPageTest.java
 
 
 These projects simulate how efficient the Least Recently Used Method and the
