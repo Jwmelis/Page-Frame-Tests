@@ -20,3 +20,5 @@ but altering MAX and MIN.
  
 The projects, by default, run 10 times per frame amount and average the number of page faults. 
 This number may be altered by changing runCount loop.     
+
+To Execute these files, simply open them with your java environment of choice and run
